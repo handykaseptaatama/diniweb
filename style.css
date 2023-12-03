@@ -5,15 +5,15 @@
 
 .banner {
   background: url("img/cc.jpg") no-repeat center center;
-  color: #fff;
+  color: #f7ffff;
   background-size: cover; 
-  padding-top: 20%;
+  padding-top: 25%;
   padding-bottom: 30%;
 }
 
 
 .album {
-  background-color: #1b7f83;
+  background-color: #525252;
   min-height: 150vh; 
   background-size: cover;
 }
@@ -24,8 +24,14 @@
 
 
 .bts {
-  background-color: #ffffff;
+  background-color: #030303;
   min-height: 150vh; 
   background-size: cover;
 }
+
+.bts {
+  passing: 2rem:
+}
+
+
 
